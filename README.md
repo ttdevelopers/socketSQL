@@ -1,3 +1,7 @@
+# MySQL With Websocket Support #
+
+This is a version of MySQL that support websockets and can be programmed to connect to turntable's websockets.
+
 # Twitter MySQL 5.5 #
 
 This is [Twitter](http://twitter.com/)'s MySQL development branch, which is based on MySQL 5.5 as published by Oracle on [MySQL on Launchpad](https://launchpad.net/mysql-server). 
